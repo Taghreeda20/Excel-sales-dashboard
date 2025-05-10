@@ -14,7 +14,7 @@ Interactive sales dashboard with pivot tables and analytics
 - Mountain-200 Black (38) was the top selling product with 1,128 orders
 
 ## How to Use
-1. Open Salesdashboard.xlsx in Microsoft Excel
+1. Open SalesDashboard.xlsx in Microsoft Excel
 2. Navigate between:
    - "PivotTables" sheet - Source data and pivot tables
    - "Dashboard" sheet - Interactive dashboard view
